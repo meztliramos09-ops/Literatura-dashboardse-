@@ -1,0 +1,11 @@
+id,usuario,tipo,calificacion,comentario,fecha
+1,Sofía_R_328,Positivo,5,Me encantó el primer módulo de Literatura Antigua. Las explicaciones sobre Gilgamesh y la Ilíada son fascinantes.,2026-02-01 23:06
+2,ProfJuan_323,Crítica,2,El análisis crítico de los textos sumerios en el módulo de Literatura Antigua es superficial; falta rigor filológico.,2026-02-13 16:38
+3,Daniela_F_384,Crítica,3,Hay errores de fecha en la cronología provista en el material del primer módulo sobre la literatura mesopotámica.,2026-01-15 05:44
+4,ElenaV_655,Feedback,4,Sería excelente que agregaran mapas interactivos en el módulo de Literatura Antigua para ubicar mejor las civilizaciones.,2026-03-11 08:12
+5,Roberto_K_255,Negativo,2,El módulo de Literatura Antigua se siente demasiado pesado y aburrido en las primeras lecturas. No me gustó.,2026-02-28 14:20
+6,CarlosM_931,Negativo,1,Pésima experiencia con la plataforma durante el primer módulo. Los videos se cortaban constantemente.,2026-03-30 19:15
+7,Camila_S_448,Feedback,5,Sugiero incluir más cuestionarios de práctica al final de cada tema del primer módulo para afianzar conceptos.,2026-01-22 11:50
+8,Javier_88_514,Positivo,5,Excelente curso de Historia de la Literatura. La plataforma es muy intuitiva y el contenido del módulo de Literatura Antigua superó mis expectativas.,2026-04-02 10:05
+9,Mateo_P_712,Crítica,3,Se nota una perspectiva muy eurocéntrica en la selección de obras del módulo de Literatura Antigua; deberían incluir más literatura asiática y americana precolombina.,2026-02-10 21:40
+10,Lucia_M_198,Positivo,4,Muy buen material de lectura y videos explicativos muy claros sobre los clásicos griegos y romanos. 10/10.,2026-01-18 13:22
